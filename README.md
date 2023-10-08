@@ -133,16 +133,15 @@ Key features of my project include:
 ## Screenshots
 
 Here are some screenshots from the project:
-![Screenshot from 2023-10-07 04-30-00](https://github.com/ahmbana90/TopiTalk/assets/124783249/f2eb1311-e83d-42fd-bc16-97fd48484dd7)
-
-![Screenshot from 2023-10-07 04-30-11](https://github.com/ahmbana90/TopiTalk/assets/124783249/2f1d6a36-f3d6-4354-88ed-c962076f7b87)
-
-![Screenshot from 2023-10-07 04-30-52](https://github.com/ahmbana90/TopiTalk/assets/124783249/a2745846-5da0-4bd1-85d0-eab8edd1b43c)
+ ![Screenshot from 2023-10-07 04-30-00](https://github.com/ahmbana90/TopiTalk/assets/124783249/f2eb1311-e83d-42fd-bc16-97fd48484dd7)
+ 
+ ![Screenshot from 2023-10-07 04-30-11](https://github.com/ahmbana90/TopiTalk/assets/124783249/2f1d6a36-f3d6-4354-88ed-c962076f7b87)
+ 
+ ![Screenshot from 2023-10-07 04-30-52](https://github.com/ahmbana90/TopiTalk/assets/124783249/a2745846-5da0-4bd1-85d0-eab8edd1b43c)
 
 Mobile version:
 
-
-![Screenshot from 2023-10-07 04-28-42](https://github.com/ahmbana90/TopiTalk/assets/124783249/9d56ec2d-d3be-420a-a87e-fb73ca5513fc)
+ ![Screenshot from 2023-10-07 04-28-42](https://github.com/ahmbana90/TopiTalk/assets/124783249/9d56ec2d-d3be-420a-a87e-fb73ca5513fc)
 
 ## Installation
 
