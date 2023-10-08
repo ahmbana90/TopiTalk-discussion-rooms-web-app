@@ -1,4 +1,6 @@
-![browser-logo](https://github.com/ahmbana90/TopiTalk/assets/124783249/138d5bf2-3367-448c-a266-6edf40f2713f) # TopiTalk 
+![logo1](https://github.com/ahmbana90/TopiTalk/assets/124783249/397a43e2-79e0-44e2-93a5-a6ae9e461fa3)
+
+# TopiTalk 
 
 ## Overview
 
