@@ -1,4 +1,6 @@
-![logo1](https://github.com/ahmbana90/TopiTalk/assets/124783249/397a43e2-79e0-44e2-93a5-a6ae9e461fa3)
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+ <img src="![logo1](https://github.com/ahmbana90/TopiTalk/assets/124783249/397a43e2-79e0-44e2-93a5-a6ae9e461fa3)" alt="python" width="40" height="40"/> </a> </p>
+
 
 # TopiTalk 
 
