@@ -91,7 +91,7 @@ def room(request,pk):
         
     return render(request,'base/room.html',context)
 
-#@login_required(login_url='login')
+@login_required(login_url='login')
 def userProfile(request, pk):
     user= User.objects.get(id=pk)
     rooms= user.room_set.all()
