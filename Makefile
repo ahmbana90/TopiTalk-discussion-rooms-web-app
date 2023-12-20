@@ -18,8 +18,5 @@ sqlmigrate:
 rollback:
 	python manage.py migrate $(app) $(m)
 
-shell:
-	python manage.py shell 
-
 test:
 	python manage.py test  
